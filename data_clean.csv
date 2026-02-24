@@ -1,0 +1,54 @@
+N,hex_id,Name,Europol link,Country
+2,43,AML Crowd Sentinel,"RID 2024 + One of their founders, Dieter Petracs, is a former Europol official (2006 to 2016).",Austria
+33,46,Chaincomply,RID 2025,Belgium
+38,34,Magnet Forensics,"RID 2025 + Europol used Griffeye, an AI face recognition tool acquired acquired by Magnet Forensics in 2023",Canada
+23,2,DarkOwl,RID 2025,Colorado (USA)
+14,40,European University Cyprus,RID 2024,Cyprus
+21,38,Phonexia,RID 2024,Czechia
+28,37,Eyedea Recognition Ltd,"According to Thales, it already has a contract with Europol. According to this 2017 paper, its Eyedentity tool (a FRT), was used by Europol.",Czechia
+26,53,EACTDA - European Anticybercrime Technology Development Association + Byron Labs,RID 2025,"EU, Canada"
+8,36,Anarky Labs,RID 2024,Finland
+42,35,VTT Technical Research,RID 2025 + Partnered with Europol in EU-funded research projects Infinity and Starlight,Finland
+25,3,Cat Labs (Crypto Asset Technology Labs),RID 2025,Florida (USA)
+11,23,Idemia,RID 2024,France
+36,24,Elephantastic Software,RID 2025,France
+20,12,Prevency GmBH (with ESG Elektroniksystem- und Logistik),RID 2024,Germany
+29,13,Innosystec,RID 2025,Germany
+32,11,Agentur für Innovation in der Cybersicherheit GmbH (Cyberagentur),RID 2025,Germany
+41,14,Roboverse Reply,RID 2025,Germany
+49,15,Maltego Technologies,RID 2025 + Sergio Enrique Leal Rodriguez was a former Europol EC3 official until moving to Maltego in May 2023.,Germany
+35,50,Innovation Lab of Police agency of NRW - Germany / Boston Dynamics & Spike App,RID 2025 + Europol Innovation Lab has visited NRW in August 2024,"Germany, USA"
+44,39,Quadible Greece PC,RID 2025,Greece
+3,33,Veneto privacy Services LTD,RID 2024,Ireland
+4,32,iTrust Ethics Ltd,RID 2024,Ireland
+31,52,Trilateral Research,RID 2025,"Ireland, UK"
+1,26,Netspark,RID 2024,Israel
+47,25,Cellebrite,"RID 2025 + In 2012, Europol mentioned having 2 Cellebrite UFED scanning stations. It also mentioned using UFED for migrant smuggling operations in Bulgaria in 2016 and in Poland in 2019.",Israel
+9,48,NEC,"RID 2024 + Contracted for Europol's new face recognition programme, starting 2024",Japan
+15,45,Tadaweb,RID 2024,Luxemburg
+17,16,Netherlands Forensic Institute,RID 2025,Netherlands
+19,19,Volto Labs,"RID 2024 + Part of the Hague Security Delta, to which Europol is a premium partner",Netherlands
+34,18,AirHub,RID 2025,Netherlands
+37,17,Supervision BV,RID 2025,Netherlands
+13,41,Datawalk,RID 2024,Poland
+48,47,Geosat,RID 2025,Portugal
+50,44,Bitdefender,"RID 2025 + Partner in the EU Horizon project AIDA, with Europol + Partner in operations: 2018-19 on a ransomware case + part of Europol's Advisory Group on Internet Security (AGIS)",Romania
+39,51,Resaro Group,RID 2025,"Singapore, and Germany since 2025"
+12,29,ISID,RID 2024,Spain
+18,28,Crow Technologies Engineering,RID 2024,Spain
+27,27,HI Iberia Ingenieria y Proyectos,RID 2025,Spain
+40,30,Future Space,RID 2025,Spain
+43,31,Bee The Data,RID 2025,Spain
+24,42,Paliscope,"RID 2025 + In 2020, Europol told MEP Patrick Breyer it was not using Paliscope products, but Griffeye (later acquired by Magnet Forensics).",Sweden
+5,20,Centric/CC4AI,"RID 2024 + In 2020, Centric signed a MoU with Europol",UK
+10,22,Camera Forensics,RID 2024,UK
+30,21,Issured Limited,RID 2025,UK
+6,6,908 Devices,RID 2024,USA
+7,7,Pendar Technologies,RID 2024,USA
+16,9,Clean DNS,RID 2024,USA
+22,8,SOC Radar,RID 2025,USA
+45,1,Rank One Computing Corporation,RID 2025,USA
+46,4,Axon (Dedrone),RID 2025,USA
+51,5,Zepo Intelligence,RID 2025,USA
+52,10,Aegis Technologies,RID 2025,USA
+53,49,Starlight Project w/ private partners DTO and VTT,RID 2025,NA
